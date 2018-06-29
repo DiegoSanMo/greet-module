@@ -1,5 +1,5 @@
 {
-    "name": "ng2-fone",
+    "name": "greet",
     "version": "1.0.0",
     "description": "Receive the message sent",
     "main": "bundles/greet.umd.js",
