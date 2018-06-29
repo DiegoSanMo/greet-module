@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":3,"metadata":{},"exports":[{"from":"./greet.module","export":["GreetModule"]},{"from":"./greet.service","export":["GreetService"]}]},{"__symbolic":"module","version":1,"metadata":{},"exports":[{"from":"./greet.module","export":["GreetModule"]},{"from":"./greet.service","export":["GreetService"]}]}]

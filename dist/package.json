@@ -1,0 +1,26 @@
+{
+    "name": "ng2-fone",
+    "version": "1.0.0",
+    "description": "Receive the message sent",
+    "main": "bundles/greet.umd.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "keywords": [
+      "angular",
+      "angular2",
+      "angular 2"
+    ],
+    "author": "Diego Mosan",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DiegoSanMo/greet-module.git"
+    },
+    "homepage": "",
+    "peerDependencies": {
+      "@angular/core": "^2.4.0",
+      "reflect-metadata": "^0.1.8",
+      "rxjs": "^5.0.1",
+      "zone.js": "^0.7.2"
+    }
+  }
